@@ -2,7 +2,7 @@
 
 ### Remarks
 
-I used three security groups. One for the load balancer, application tier, and application tier. There are room for improvements such adding CloudFront, automate the entire environment using cloudFormation, terraform, ansible, etc.
+I used three security groups. One for the load balancer, application tier, and application tier. There are room for improvements such adding CloudFront, automate the entire environment using cloudFormation, terraform, ansible, etc. I choose to run all the application services on Ubuntu 20.04.
 
 ### Flow of Execution
 1. Register a dmain with godaddy
